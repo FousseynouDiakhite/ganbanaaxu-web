@@ -137,15 +137,7 @@ function InstallButtons() {
         >
           Android
         </a>
-        <a
-          href="https://apps.apple.com/app/idTON_ID"
-          style={{
-            display: 'inline-block', padding: '12px 24px', background: '#6200EE',
-            color: '#FFF', borderRadius: 8, textDecoration: 'none', fontWeight: 'bold',
-          }}
-        >
-          iOS
-        </a>
+    
       </div>
     </div>
   )
